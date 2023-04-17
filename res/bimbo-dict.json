@@ -300,5 +300,165 @@
          "spelling": "u",
          "weight": 1
       }
+   ],
+   "awesome": [
+      "awsome",
+      "awsum"
+   ],
+   "because": [
+      "cuz",
+      "coz",
+      "bcuz"
+   ],
+   "better": [
+      "beter",
+      "bettah"
+   ],
+   "cute": [
+      "cute",
+      "kewt"
+   ],
+   "definitely": [
+      "definatly",
+      "definitley",
+      "totes"
+   ],
+   "delicious": [
+      "delish",
+      "delissh"
+   ],
+   "everything": [
+      "evrythin",
+      "everyting"
+   ],
+   "great": [
+      "grate",
+      "gret"
+   ],
+   "hello": [
+      "heyy",
+      "hii"
+   ],
+   "help": [
+      "halp"
+   ],
+   "maybe": [
+      "mayb",
+      "mabe",
+   ],
+   "phone": [
+      "fone",
+   ],
+   "please": [
+      "plz",
+      "pls"
+   ],
+   "remember": [
+      "rember",
+      "remembr"
+   ],
+   "right": [
+      "rite",
+      "riiight"
+   ],
+   "seriously": [
+      "srsly",
+      "seriosly"
+   ],
+   "super": [
+      "supah",
+      "sooper"
+   ],
+   "thanks": [
+      "thx",
+      "thnx"
+   ],
+   "together": [
+      "togther",
+      "togheter"
+   ],
+   "yesterday": [
+      "yesturday",
+      "ystrday"
+   ],
+   "astronomy": [
+      "astro-stuff",
+      "star-stuff",
+      "star-gazing"
+   ],
+   "bacteria": [
+      "tiny-bugs",
+      "micro-germs"
+   ],
+   "cantaloupe": [
+      "sweet-melon",
+      "orange-melon"
+   ],
+   "definitely": [
+      "fer-sure",
+      "definly",
+      "totes",
+      "def"
+   ],
+   "environment": [
+      "nature-stuff",
+      "outdoorz",
+      "the planet"
+   ],
+   "extraordinary": [
+      "super-amazing",
+      "extra-wow",
+      "amazeballs" 
+   ],
+   "hypothesis": [
+      "smart-guess",
+      "thinky-idea"
+   ],
+   "literature": [
+      "book-stuff",
+      "writin'"
+   ],
+   "metamorphosis": [
+      "mega-change",
+      "morphin'-time"
+   ],
+   "microscope": [
+      "tiny-looker",
+      "small-seein'"
+   ],
+   "necessity": [
+      "need-thing",
+      "must-have"
+   ],
+   "psychology": [
+      "mind-study",
+      "thinkin'-stuff"
+   ],
+   "restaurant": [
+      "food-place",
+      "eatery"
+   ],
+   "sophisticated": [
+      "super-fancy",
+      "posh-like"
+   ],
+   "temperature": [
+      "how-hot",
+      "tempy-thing"
+   ],
+   "television": [
+      "telly",
+      "TV-box"
+   ],
+   "ubiquitous": [
+      "everywherey",
+      "all-over"
+   ],
+   "vocabulary": [
+      "word-stuff",
+      "words"
+   ],
+   "xylophone": [
+      "tinkly-keys"
    ]
 }
